@@ -1,0 +1,71 @@
+main p.Nome{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    background-color: lightgrey;
+    padding: 10px;
+    padding-top: 10px;
+    text-align:justify;
+}
+
+main p.civil{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    background-color: gray;
+    padding: 10px;
+    margin-top: 10px;
+    text-align:justify;
+    display: block;
+}
+main p.rua{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    background-color: lightgrey;
+    padding: 10px;
+    padding-top: 10px;
+    text-align:justify;
+}
+main p.cep{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    background-color: gray;
+    padding: 10px;
+    margin-top: 10px;
+    text-align:justify;
+    display: block;
+}
+main p.telefone{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    background-color: lightgrey;
+    padding: 10px;
+    padding-top: 10px;
+    text-align:justify;
+}
+main p.email{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    background-color: gray;
+    padding: 10px;
+    margin-top: 10px;
+    text-align:justify;
+    display: block;
+}
+
+header h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    background-image: linear-gradient(to right,blue,rgb(82, 82, 209),rgb(148, 148, 247));
+}
+
+body{
+    background-image: url(fundo.jpg);
+}
+
+footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: black;
+    background-image: linear-gradient(to right,blue,rgb(82, 82, 209),rgb(148, 148, 247));
+}
